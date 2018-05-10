@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+<Stable>
+<walleye>
+<Filename>nephilim_walleye-v3.3-20180508-R3Ds.zip</Filename>
+<BuildUrl
+  id="build"
+  title="Latest Build"
+  description="Download Here">https://www.androidfilehost.com/?fid=674106145207485775</BuildUrl>
+<GAppsUrl
+  id="GApps"
+  title="Vendor"
+  description="Walleye OMP2.171019.029.B1">https://www.androidfilehost.com/?fid=962339331458991012</GAppsUrl>
+<ChangelogUrl
+  id="changelog"
+  title="Whats New"
+  description="View Changelog">https://github.com/NephilimRom/changelog/blob/o81x/Changelog.md</ChangelogUrl>
+</walleye>
+</Stable>
+</SlimOTA>

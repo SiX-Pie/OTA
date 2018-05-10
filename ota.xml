@@ -15,6 +15,14 @@
   id="changelog"
   title="Whats New"
   description="View Changelog">https://github.com/NephilimRom/changelog/blob/o81x/Changelog.md</ChangelogUrl>
+<FlashkernelUrl
+  id="flashkernel"
+  title="Flash Kernel by Nathan (The Flash)"
+  description="No dtbo img file, to work on Lineage base">https://www.androidfilehost.com/?fid=890278863836284609</FlashkernelUrl>
+<ExkernelUrl
+  id="exkernel"
+  title="ElementalX Kernel by Flar2"
+  description="No dtbo img file, to work on Lineage base">https://www.androidfilehost.com/?fid=746163614322263603</ExkernelUrl>
 </walleye>
 </Stable>
 </SlimOTA>

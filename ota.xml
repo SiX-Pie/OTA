@@ -2,27 +2,19 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 <Stable>
 <walleye>
-<Filename>nephilim_walleye-v3.4-20180512-R3Ds.zip</Filename>
+<Filename>nephilim_walleye-v3.5-20180514-R3Ds.zip</Filename>
 <BuildUrl
   id="build"
   title="Latest Build"
-  description="Download Here">https://www.androidfilehost.com/?fid=818222786056030048</BuildUrl>
-<GAppsUrl
-  id="GApps"
+  description="Download Here">https://www.androidfilehost.com/?fid=818222786056030403</BuildUrl>
+<VendorUrl
+  id="Vendor"
   title="Vendor"
-  description="Walleye OMP2.171019.029.B1">https://www.androidfilehost.com/?fid=962339331458991012</GAppsUrl>
+  description="Walleye OMP2.171019.029.B1">https://www.androidfilehost.com/?fid=962339331458991012</VendorUrl>
 <ChangelogUrl
   id="changelog"
   title="Whats New"
   description="View Changelog">https://github.com/NephilimRom/changelog/blob/o81x/Changelog.md</ChangelogUrl>
-<FlashkernelUrl
-  id="flashkernel"
-  title="Flash Kernel by Nathan (The Flash)"
-  description="No dtbo img file, to work on Lineage base">https://www.androidfilehost.com/?fid=890278863836284609</FlashkernelUrl>
-<ExkernelUrl
-  id="exkernel"
-  title="ElementalX Kernel by Flar2"
-  description="No dtbo img file, to work on Lineage base">https://www.androidfilehost.com/?fid=746163614322263603</ExkernelUrl>
 </walleye>
 </Stable>
 </SlimOTA>

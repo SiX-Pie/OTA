@@ -15,6 +15,10 @@
   id="changelog"
   title="Whats New"
   description="View Changelog">https://github.com/NephilimRom/changelog/blob/o81x/Changelog.md</ChangelogUrl>
+<ThemeUrl
+  id="theme"
+  title="Penguin Theme v1.5"
+  description="Substratum theme for R3Ds roms">https://www.androidfilehost.com/?fid=746163614322264729</ThemeUrl>
 </walleye>
 </Stable>
 </SlimOTA>

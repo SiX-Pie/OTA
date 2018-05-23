@@ -20,5 +20,21 @@
   title="Penguins Theme v1.7"
   description="Substratum theme for R3Ds roms">https://www.androidfilehost.com/?fid=890278863836287153</ThemeUrl>
 </walleye>
+
+<shamu>
+<Filename>nephilim_shamu-v3.8-20180523-R3Ds.zip</Filename>
+<BuildUrl
+  id="build"
+  title="Latest Build"
+  description="Download Here">https://www.androidfilehost.com/?fid=818222786056032381</BuildUrl>
+<ChangelogUrl
+  id="changelog"
+  title="Whats New"
+  description="View Changelog">https://github.com/NephilimRom/changelog/blob/o81x/Changelog.md</ChangelogUrl>
+<ThemeUrl
+  id="theme"
+  title="Penguins Theme v1.7"
+  description="Substratum theme for R3Ds roms">https://www.androidfilehost.com/?fid=890278863836287153</ThemeUrl>
+</shamu>
 </Stable>
 </SlimOTA>

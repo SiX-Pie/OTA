@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 <Stable>
 <walleye>
-<Filename>nephilim_walleye-v3.9-20180529-R3Ds.zip</Filename>
+<Filename>nephilim_walleye-v4.0-20180605-R3Ds.zip</Filename>
 <BuildUrl
   id="build"
   title="Latest Build"
-  description="Download Here">https://www.androidfilehost.com/?fid=890278863836288481</BuildUrl>
+  description="Download Here">https://www.androidfilehost.com/?fid=962339331458996451</BuildUrl>
 <VendorUrl
   id="Vendor"
   title="Vendor (June)"

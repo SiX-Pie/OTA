@@ -17,12 +17,12 @@
   description="View Changelog">https://github.com/NephilimRom/changelog/blob/o81x/Changelog.md</ChangelogUrl>
 <ThemeUrl
   id="theme"
-  title="Penguins Theme v2.1"
-  description="Substratum theme for R3Ds roms">https://www.androidfilehost.com/?fid=5862345805528040082</ThemeUrl>
-<ThemeUrl
-  id="theme"
+  title="Penguins Theme v2.2"
+  description="Substratum theme for R3Ds roms">https://www.androidfilehost.com/?fid=5862345805528040716</ThemeUrl>
+<Theme2Url
+  id="theme2"
   title="Renown Theme v1.0 for P Roms"
-  description="Substratum theme for stock P roms">https://www.androidfilehost.com/?fid=5862345805528040083</ThemeUrl>
+  description="Substratum theme for stock P roms">https://www.androidfilehost.com/?fid=5862345805528040083</Theme2Url>
 </walleye>
 
 <shamu>
@@ -37,12 +37,12 @@
   description="View Changelog">https://github.com/NephilimRom/changelog/blob/o81x/Changelog.md</ChangelogUrl>
 <ThemeUrl
   id="theme"
-  title="Penguins Theme v2.1"
-  description="Substratum theme for R3Ds roms">https://www.androidfilehost.com/?fid=5862345805528040082</ThemeUrl>
-<ThemeUrl
-  id="theme"
+  title="Penguins Theme v2.2"
+  description="Substratum theme for R3Ds roms">https://www.androidfilehost.com/?fid=5862345805528040716</ThemeUrl>
+<Theme2Url
+  id="theme2"
   title="Renown Theme v1.0 for P Roms"
-  description="Substratum theme for stock P roms">https://www.androidfilehost.com/?fid=5862345805528040083</ThemeUrl>
+  description="Substratum theme for stock P roms">https://www.androidfilehost.com/?fid=5862345805528040083</Theme2Url>
 </shamu>
 </Stable>
 </SlimOTA>

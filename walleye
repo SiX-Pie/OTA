@@ -1,0 +1,18 @@
+{
+"donate_url":"https:\/\/www.paypal.me\/R3Ds",
+"website_url":"https:\/\/fpoolboy.wixsite.com\/r3ds\/",
+"news_url":"https:\/\/t.me\/nephilimrom",
+"addons":[
+{"title":"GApps","summary":"Official Open GApps","url":"http:\/\/opengapps.org"},
+{"title":"Magisk","summary":"Systemless Root Installer","url":"https:\/\/forum.xda-developers.com\/apps\/magisk\/official-magisk-v7-universal-systemless-t3473445"}],
+"developer": "R3Ds",
+"developer_url": "https:\/\/t.me\/R3DMaNX",
+"forum_url": "https:\/\/forum.xda-developers.com\/pixel-2\/development\/8-1-0-nephilim-aosp-rom-r3ds-t3783599",
+"changelog": "",
+"filename":"sixrom-pie-v1.2-20181216-walleye-R3Ds.zip",
+"build_date":"20181216",
+"filesize":"951MB",
+"md5":"8c651c700fe5d45aa3f862fa208c93e2",
+"url":"https:\/\/androidfilehost.com\/?fid=11410963190603876572",
+"error":true
+}

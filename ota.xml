@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <walleye>
+            <Filename>sixrom-pie-v1.6-20181229-walleye-R3Ds</Filename>
+            <RomUrl
+                id="rom"
+                title="ROM"
+                description="Download latest Six Pie">https://androidfilehost.com/?fid=11410963190603885654</RomUrl>
+            <VendorUrl
+                id="vendor"
+                title="Vendor"
+                description="Download December (PQ1A.181205.002)">https://androidfilehost.com/?fid=11410963190603871565</VendorUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="Whats new and in progress">https://github.com/SiX-Pie/changelog/blob/pie-r3ds/Changelog.md</ChangelogUrl>
+            <XDAUrl
+                id="xda"
+                title="XDA Developers"
+                description="Visit Six ROM thread">https://forum.xda-developers.com/pixel-2/development/8-1-0-nephilim-aosp-rom-r3ds-t3783599</XDAUrl>
+	</walleye>
+    </Stable>
+</SlimOTA>

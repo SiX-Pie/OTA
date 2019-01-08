@@ -2,19 +2,19 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <walleye>
-            <Filename>sixrom_pie_v1.7_walleye-20190107-R3Ds</Filename>
+            <Filename>sixrom_pie_v1.8_walleye-20190108-R3Ds</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download latest Six Pie">https://www.androidfilehost.com/?fid=11410963190603893293</RomUrl>
+                description="Download the latest Six build">https://www.androidfilehost.com/?fid=11410963190603894154</RomUrl>
             <VendorUrl
                 id="vendor"
                 title="Vendor"
-                description="Download December (PQ1A.181205.002)">https://androidfilehost.com/?fid=11410963190603871565</VendorUrl>
+                description="Download PQ1A.190105.004 (January) ">https://www.androidfilehost.com/?fid=11410963190603894077</VendorUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Whats new and in progress">https://github.com/SiX-Pie/changelog/blob/pie-r3ds/Changelog.md</ChangelogUrl>
+                description="Whats new and work in progress">https://github.com/SiX-Pie/changelog/blob/pie-r3ds/Changelog.md</ChangelogUrl>
             <XDAUrl
                 id="xda"
                 title="XDA Developers"

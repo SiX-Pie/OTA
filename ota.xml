@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <walleye>
-            <Filename>sixrom_pie_v1.9_walleye-20190111-R3Ds</Filename>
+            <Filename>sixrom_pie_v2.0_walleye-20190114-R3Ds</Filename>
             <RomUrl
                 id="rom"
                 title="ROM"
-                description="Download the latest Six build">https://www.androidfilehost.com/?fid=11410963190603897172</RomUrl>
+                description="Download the latest Six build">https://www.androidfilehost.com/?fid=11410963190603899286</RomUrl>
             <VendorUrl
                 id="vendor"
                 title="Vendor"
@@ -17,8 +17,8 @@
                 description="Whats new and work in progress">https://github.com/SiX-Pie/changelog/blob/pie-r3ds/Changelog.md</ChangelogUrl>
             <ThemeUrl
                 id="theme"
-                title="Six Theme"
-                description="Substratum theme v3.2">https://www.androidfilehost.com/?fid=11410963190603883599</ThemeUrl>
+                title="SixPie Theme"
+                description="Substratum overlays v3.3">https://www.androidfilehost.com/?fid=11410963190603899278</ThemeUrl>
             <XDAUrl
                 id="xda"
                 title="XDA Developers"
